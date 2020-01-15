@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flip-coin/static/css/main.7b2a01c5.chunk.css",
+    "main.js": "/flip-coin/static/js/main.eb3b0e07.chunk.js",
+    "main.js.map": "/flip-coin/static/js/main.eb3b0e07.chunk.js.map",
+    "runtime-main.js": "/flip-coin/static/js/runtime-main.24fab9b0.js",
+    "runtime-main.js.map": "/flip-coin/static/js/runtime-main.24fab9b0.js.map",
+    "static/js/2.6d4c0d3f.chunk.js": "/flip-coin/static/js/2.6d4c0d3f.chunk.js",
+    "static/js/2.6d4c0d3f.chunk.js.map": "/flip-coin/static/js/2.6d4c0d3f.chunk.js.map",
+    "index.html": "/flip-coin/index.html",
+    "precache-manifest.dd773c410ef484bd89e19bd6f6ec7315.js": "/flip-coin/precache-manifest.dd773c410ef484bd89e19bd6f6ec7315.js",
+    "service-worker.js": "/flip-coin/service-worker.js",
+    "static/css/main.7b2a01c5.chunk.css.map": "/flip-coin/static/css/main.7b2a01c5.chunk.css.map",
+    "static/js/2.6d4c0d3f.chunk.js.LICENSE": "/flip-coin/static/js/2.6d4c0d3f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24fab9b0.js",
+    "static/js/2.6d4c0d3f.chunk.js",
+    "static/css/main.7b2a01c5.chunk.css",
+    "static/js/main.eb3b0e07.chunk.js"
+  ]
+}
